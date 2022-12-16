@@ -5,3 +5,4 @@
 - He can control the door and the fan speed. 
 - All of this can be used through the mobile application. 
 - An emergency system in case of fires.
+- The system based on AVR MC.
